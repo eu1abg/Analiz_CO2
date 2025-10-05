@@ -1,1 +1,17 @@
-
+{
+  "name": "Analiz_CO2",
+  "about": "Очень нужно",
+  "version": "1.0",
+  "notes": "Улучшения",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/eu1abg/Webasto_virtuino/main/bin/Analiz_CO2.ino.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
