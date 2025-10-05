@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/eu1abg/Webasto_virtuino/main/bin/Analiz_CO2.ino.bin",
+          "path": "https://raw.githubusercontent.com/eu1abg/Analiz_CO2/main/bin/Analiz_CO2.ino.bin",
           "offset": 0
         }
       ]
